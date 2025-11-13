@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Signalist AEAC",
-  description: "Da seguimiento en tiempo real a precios de stocks, obtén alertas personalizadas y explora insights detallados de las mejores empresas",
+  description: "Da seguimiento en tiempo real a precios de stocks, obtén alertas personalizadas y explora insights detallados de las mejores empresas.",
 };
 
 export default function RootLayout({
